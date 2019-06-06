@@ -48,13 +48,15 @@ projects:
 
 topics:
   - name: Julia Programming Language
-    web_url: https://julialang.org/
-    image_url: https://julialang.org/v2/img/logo.svg
+    web_url: https://github.com/topics/julia
+    image_url: https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png
 
-  - name: Physics
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
-  - name: Machine Learning
-    web_url: https://fluxml.ai/
-    image_url: https://fluxml.ai/logo.png
-
+  - name: C++
+    web_url: https://github.com/topics/cpp
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
+    
 theme: jekyll-theme-slate
